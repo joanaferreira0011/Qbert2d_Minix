@@ -8,6 +8,7 @@ To develop this, we used another version control system, so this repository repr
 
 All device communication was handled from scratch, from various devices at the same time, such as the keyboard, mouse or the graphics card.
 
+Want to check it out? [Click here](https://youtu.be/8HIFKGhm0Ms)
 ## The Team
 * [André Rocha](https://github.com/andrefmrocha "andrefmrocha")
 * [Joana Ferreira](https://github.com/joanaferreira0011 "joanaferreira0011")
