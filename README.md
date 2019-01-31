@@ -1,6 +1,6 @@
 # Qbert2d_Minix
 
-## The project
+## The Project
 
 
 Qbert2d is a 2D low level implementation of QBert for the MINIX operating system. It was developed for the LCOM (Computer Labs) course of the Integrated Master in Informatics and Computing Engineering at FEUP, University of Porto.
