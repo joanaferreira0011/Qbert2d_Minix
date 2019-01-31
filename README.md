@@ -7,7 +7,7 @@ Qbert2d is a 2D low level implementation of QBert for the MINIX operating system
 All device communication (such as the keyboard, mouse, timer, RTC and the graphics card) was handled from scratch. 
 Want to check it out? [Click here](https://youtu.be/8HIFKGhm0Ms)
 
-*Please check doc/lcom_report.pdf for a more detailed explanation of the implementation of the project and for some installation instructions*
+*Please check doc/lcom_report.pdf for a more detailed explanation of the implementation of the project and for some installation instructions.*
 
 *To develop this, we used another version control system, so this repository represents only the final version of the project.*
 
