@@ -4,9 +4,9 @@
 
 
 Qbert2d is a 2D low level implementation of QBert for the MINIX operating system. It was developed for the LCOM (Computer Labs) course of the Integrated Master in Informatics and Computing Engineering at FEUP, University of Porto.
-To develop this, we used another version control system, so this repository represents only the final version of the project.
-
 All device communication (such as the keyboard, mouse, timer, RTC and the graphics card) was handled from scratch. 
+
+To develop this, we used another version control system, so this repository represents only the final version of the project.
 
 Want to check it out? [Click here](https://youtu.be/8HIFKGhm0Ms)
 
